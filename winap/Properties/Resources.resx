@@ -118,16 +118,31 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="02 thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\02 thumbnail.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="LOGO_SMK_TUNAS_HARAPAN_PATI_TERBARU" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\LOGO_SMK_TUNAS_HARAPAN_PATI_TERBARU.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="02 thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\02 thumbnail.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="calendar-schedule-line" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\calendar-schedule-line.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="briefcase-4-line" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\briefcase-4-line.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="archive-2-line" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\archive-2-line.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="home-8-line" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\home-8-line.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="home_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\home_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Logo SMK Tunas Harapan Pati " type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logo SMK Tunas Harapan Pati .png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
